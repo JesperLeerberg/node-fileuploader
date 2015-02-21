@@ -1,0 +1,22 @@
+{
+  "name": "node-fileuploader",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jm4d53n/node-fileuploader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jm4d53n/node-fileuploader/issues"
+  },
+  "homepage": "https://github.com/jm4d53n/node-fileuploader",
+  "dependencies": {
+    "express": "^4.11.2"
+  }
+}

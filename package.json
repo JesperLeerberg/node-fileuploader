@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/jm4d53n/node-fileuploader",
   "dependencies": {
-    "express": "^4.11.2"
+    "body-parser": "^1.12.0",
+    "cors": "^2.5.3",
+    "express": "^4.11.2",
+    "mongoose": "^3.8.23"
   }
 }

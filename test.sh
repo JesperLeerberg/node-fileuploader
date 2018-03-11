@@ -1,6 +1,6 @@
 str="$*"
 
-str=$(gitmoji $str)
+str=$(gitmoji "$str")
 
-b=$(git commit -m "$str")
+git commit -m "$str"
 

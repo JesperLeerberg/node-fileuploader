@@ -45,6 +45,7 @@ server.get('*', routes.default);
 --------------------------------------------------
 */
 
+
 // Get all files
 server.get('/api/files', routes.api.getAll);
 

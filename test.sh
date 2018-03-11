@@ -1,4 +1,4 @@
-str="'$*'"
+str="$*"
 
 str=$(gitmoji $str)
 
